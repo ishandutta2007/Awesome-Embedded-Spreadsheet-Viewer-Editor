@@ -1,6 +1,6 @@
 # Awesome-Embedded-Spreadsheet-Viewer-Editor
 
-# Top Embedded Spreadsheet Viewer & Editor Ecosystem
+## Top Embedded Spreadsheet Viewer & Editor Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on In-App Excel-Like Editing, Formula Engines & White-Label Workbook Components*  
