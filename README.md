@@ -59,9 +59,9 @@ The global spreadsheet software and developer UI component ecosystem represents 
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted in descending order by GitHub Stars ⭐. Every repo links directly to its official stargazers page.
+Sorted in descending order by GitHub_Stars ⭐. Every repo links directly to its official stargazers page.
 
-| Project | Stars | Language / Stack | License | Description |
+| Project | GitHub_Stars | Language / Stack | License | Description |
 |---------|-------|------------------|---------|-------------|
 | **[SheetJS / js-xlsx](https://github.com/SheetJS/sheetjs)** | [![Stars](https://img.shields.io/github/stars/SheetJS/sheetjs?style=social&color=white)](https://github.com/SheetJS/sheetjs/stargazers) | JavaScript / TypeScript | Apache-2.0 | 📗 **The undisputed standard for spreadsheet data parsing and processing.** Comprehensive toolkit for parsing, validating, generating, and converting XLSX, XLS, CSV, and ODS formats across browsers and Node.js. |
 | **[Univer](https://github.com/dream-num/univer)** | [![Stars](https://img.shields.io/github/stars/dream-num/univer?style=social&color=white)](https://github.com/dream-num/univer/stargazers) | TypeScript / Canvas | Apache-2.0 | 🌟 **The successor to Luckysheet and the most ambitious open-source AI-native spreadsheet framework.** Full-stack framework for web and server with real-time multi-user collaboration, formula calculation engine, XLSX import/export, and LLM agent integration via Univer MCP. |
@@ -99,7 +99,7 @@ We love community contributions! To add a new platform, library, or update prici
 
 1. 🍴 Fork this repository.
 2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-spreadsheet`).
-3. 📝 Update `README.md` following the established table formats (ensure pricing, free tier limits, star badges, and descriptions are factual).
+3. 📝 Update `README.md` following the established table formats (ensure pricing, free tier limits, Stars_Badges, and descriptions are factual).
 4. 🚀 Commit your changes (`git commit -m "feat: add NewSpreadsheet engine"`).
 5. 📬 Submit a Pull Request.
 
